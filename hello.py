@@ -1,1 +1,1 @@
-'print("Hello, MCP!")' 
+print("Hello, World!")
